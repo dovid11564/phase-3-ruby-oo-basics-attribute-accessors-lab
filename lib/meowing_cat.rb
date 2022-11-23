@@ -1,1 +1,5 @@
-## code your solution here. 
+class class 
+    def initialize
+        
+    end
+end
